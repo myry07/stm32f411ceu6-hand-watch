@@ -5,7 +5,7 @@
 * LCD: st7789
 * SPK: MAX98357
 * PPG: MAX30102
-* PMCI: AXP2101
+* PMIC: AXP2101
 
 <p align="center">
     <img src="03.fotos/p1.jpg" alt="f" width="40%"/>
