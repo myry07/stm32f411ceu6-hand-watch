@@ -8,17 +8,17 @@
 * PMCI: AXP2101
 
 <p align="center">
-    <img src="03.fotos/p1.jpg.jpg" alt="f" width="40%"/>
+    <img src="03.fotos/p1.jpg" alt="f" width="40%"/>
 </p>
 
 <p align="center">
-    <img src="03.fotos/p2.jpg.jpg" alt="f" width="40%"/>
+    <img src="03.fotos/p2.jpg" alt="f" width="40%"/>
 </p>
 
 <p align="center">
-    <img src="03.fotos/p3.jpg.jpg" alt="f" width="40%"/>
+    <img src="03.fotos/p3.jpg" alt="f" width="40%"/>
 </p>
 
 <p align="center">
-    <img src="03.fotos/p4.jpg.jpg" alt="f" width="40%"/>
+    <img src="03.fotos/p4.jpg" alt="f" width="40%"/>
 </p>
