@@ -7,6 +7,8 @@
 * PPG: MAX30102
 * PMIC: AXP2101
 
+I just ran the example code to test the peripherals. Source code from: https://github.com/deividAlfa/ST7789-STM32-uGUI
+
 <p align="center">
     <img src="03.fotos/p1.jpg" alt="f" width="60%"/>
 </p>
